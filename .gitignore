@@ -1,0 +1,4 @@
+
+*.ipch
+Engine/OlcEngine3D/OlcEngine3D.vcxproj.user
+*.opendb
