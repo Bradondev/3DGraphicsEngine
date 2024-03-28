@@ -1,0 +1,11 @@
+﻿  OlcEngine3D.cpp
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(167,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(167,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(166,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(166,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(165,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(165,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OlcEngine3D.vcxproj -> C:\Users\anime\Desktop\3DGraphicsEngine\Engine\x64\Debug\OlcEngine3D.exe

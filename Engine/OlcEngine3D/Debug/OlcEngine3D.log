@@ -1,2 +1,8 @@
 ﻿  OlcEngine3D.cpp
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(167,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(167,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(166,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(166,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(165,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anime\Desktop\3DGraphicsEngine\Engine\OlcEngine3D\OlcEngine3D.cpp(165,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   OlcEngine3D.vcxproj -> C:\Users\anime\Desktop\3DGraphicsEngine\Engine\Debug\OlcEngine3D.exe
